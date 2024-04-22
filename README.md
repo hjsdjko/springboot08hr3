@@ -1,27 +1,38 @@
-推荐使用：谷歌浏览器 【QQ联系 979748385 QQ群 601569450】
 
-后台地址
-http://localhost:8080/springbootxs5o6/admin/dist/index.html
+[索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
 
-管理员  abo 密码 abo
+关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
+***************************************************************
 
-前台地址：http://localhost:8080/springbootxs5o6/front/index.html
+系统架构
 
+前端：html | js | css | jquery | vue
 
+后端：springboot | mybatis
 
-在src\main\resources\application.yml中编辑
-											
-	 url: jdbc:mysql://127.0.0.1:3306/springbootxs5o6?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-	    username: root
-	    password: 123456 （数据库密码）
+环境：jdk1.8+ | mysql | maven
 
-![输入图片说明](https://foruda.gitee.com/images/1712485622052079542/1e3c258f_11655160.png "屏幕截图")
+使用说明
 
-![输入图片说明](https://foruda.gitee.com/images/1712485641940998649/76538127_11655160.png "屏幕截图")
+1、下载源码，导入IDEA
 
-![输入图片说明](https://foruda.gitee.com/images/1712485653771551037/0802c5cd_11655160.png "屏幕截图")
+2、创建数据库，执行数据库脚本
 
-![输入图片说明](https://foruda.gitee.com/images/1712485658984335848/3ff1a5ab_11655160.png "屏幕截图")
+3、修改数据库JDBC连接参数
 
-![输入图片说明](https://foruda.gitee.com/images/1712485663519754757/fcda8c71_11655160.png "屏幕截图")
+4、在IDEA中运行
+
+5、打开浏览器，参考<说明文档.txt>中的地址
+
+***************************************************************
+
+![a8347f26682eff36fa72f065bf9dedf](https://github.com/hjsdjko/springboot08hr3/assets/120558513/7f4d4d31-198a-49ca-93dc-ec9bfba9eb3d)
+
+![f73ce52600d30f98114aee9b66c24e0](https://github.com/hjsdjko/springboot08hr3/assets/120558513/cc9ba526-5d70-48cc-9c9b-103e16768471)
+
+![81eab2d353d916a9182648049237e68](https://github.com/hjsdjko/springboot08hr3/assets/120558513/e88c6728-03ab-4973-acec-ca80b168b63d)
+
+![b64d1b88772958c303358a2ce7bb690](https://github.com/hjsdjko/springboot08hr3/assets/120558513/de8ae936-573f-4a86-858f-5b87bc77b35c)
+
+![24a970ef0fc6a1da55e36eb3fae5ce0](https://github.com/hjsdjko/springboot08hr3/assets/120558513/13f97f22-c735-478d-b610-694116d16389)
